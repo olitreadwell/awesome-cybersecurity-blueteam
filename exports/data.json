@@ -1,0 +1,2467 @@
+{
+  "name": "Awesome Cybersecurity Blueteam",
+  "repo_slug": "awesome-cybersecurity-blueteam",
+  "generated_at": "2026-09-23",
+  "entry_count": 233,
+  "sections": [
+    {
+      "name": "Automation and Convention",
+      "entries": [
+        {
+          "name": "Ansible Lockdown",
+          "url": "https://ansiblelockdown.io/",
+          "description": "Curated collection of information security themed Ansible roles that are both vetted and actively maintained.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 67
+        },
+        {
+          "name": "Clevis",
+          "url": "https://github.com/latchset/clevis",
+          "description": "Plugable framework for automated decryption, often used as a Tang client.",
+          "tags": [],
+          "group": null,
+          "stars": 1263,
+          "last_push": "2026-07-25",
+          "line": 68
+        },
+        {
+          "name": "DShell",
+          "url": "https://github.com/USArmyResearchLab/Dshell",
+          "description": "Extensible network forensic analysis framework written in Python that enables rapid development of plugins to support the dissection of network packet captures.",
+          "tags": [],
+          "group": null,
+          "stars": 5494,
+          "last_push": "2024-05-07",
+          "line": 69
+        },
+        {
+          "name": "Dev-Sec.io",
+          "url": "https://dev-sec.io/",
+          "description": "Server hardening framework providing Ansible, Chef, and Puppet implementations of various baseline security configurations.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 70
+        },
+        {
+          "name": "Password Manager Resources",
+          "url": "https://github.com/apple/password-manager-resources",
+          "description": "Collaborative, crowd-sourced data and code to make password management better.",
+          "tags": [],
+          "group": null,
+          "stars": 4859,
+          "last_push": "2026-09-18",
+          "line": 71
+        },
+        {
+          "name": "peepdf",
+          "url": "https://eternal-todo.com/tools/peepdf-pdf-analysis-tool",
+          "description": "Scriptable PDF file analyzer.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 72
+        },
+        {
+          "name": "PyREBox",
+          "url": "https://talosintelligence.com/pyrebox",
+          "description": "Python-scriptable reverse engineering sandbox, based on QEMU.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 73
+        },
+        {
+          "name": "Watchtower",
+          "url": "https://containrrr.dev/watchtower/",
+          "description": "Container-based solution for automating Docker container base image updates, providing an unattended upgrade experience.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 74
+        },
+        {
+          "name": "MultiScanner",
+          "url": "https://github.com/mitre/multiscanner",
+          "description": "File analysis framework written in Python that assists in evaluating a set of files by automatically running a suite of tools against them and aggregating the output.",
+          "tags": [],
+          "group": null,
+          "stars": 621,
+          "last_push": "2019-10-08",
+          "line": 78
+        },
+        {
+          "name": "Posh-VirusTotal",
+          "url": "https://github.com/darkoperator/Posh-VirusTotal",
+          "description": "PowerShell interface to VirusTotal.com APIs.",
+          "tags": [],
+          "group": null,
+          "stars": 124,
+          "last_push": "2020-01-16",
+          "line": 79
+        },
+        {
+          "name": "censys-python",
+          "url": "https://github.com/censys/censys-python",
+          "description": "Python wrapper to the Censys REST API.",
+          "tags": [],
+          "group": null,
+          "stars": 469,
+          "last_push": "2026-08-28",
+          "line": 80
+        },
+        {
+          "name": "libcrafter",
+          "url": "https://github.com/pellegre/libcrafter",
+          "description": "High level C++ network packet sniffing and crafting library.",
+          "tags": [],
+          "group": null,
+          "stars": 312,
+          "last_push": "2026-09-20",
+          "line": 81
+        },
+        {
+          "name": "python-dshield",
+          "url": "https://github.com/rshipp/python-dshield",
+          "description": "Pythonic interface to the Internet Storm Center/DShield API.",
+          "tags": [],
+          "group": null,
+          "stars": 28,
+          "last_push": "2023-05-23",
+          "line": 82
+        },
+        {
+          "name": "python-sandboxapi",
+          "url": "https://github.com/InQuest/python-sandboxapi",
+          "description": "Minimal, consistent Python API for building integrations with malware sandboxes.",
+          "tags": [],
+          "group": null,
+          "stars": 143,
+          "last_push": "2024-01-31",
+          "line": 83
+        },
+        {
+          "name": "python-stix2",
+          "url": "https://github.com/oasis-open/cti-python-stix2",
+          "description": "Python APIs for serializing and de-serializing Structured Threat Information eXpression (STIX) JSON content, plus higher-level APIs for common tasks.",
+          "tags": [],
+          "group": null,
+          "stars": 439,
+          "last_push": "2026-02-12",
+          "line": 84
+        },
+        {
+          "name": "Shuffle",
+          "url": "https://shuffler.io/",
+          "description": "Graphical generalized workflow (automation) builder for IT professionals and blue teamers.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 90
+        }
+      ]
+    },
+    {
+      "name": "Cloud platform security",
+      "entries": [
+        {
+          "name": "Aaia",
+          "url": "https://github.com/rams3sh/Aaia",
+          "description": "Helps in visualizing AWS IAM and Organizations in a graph format with help of Neo4j.",
+          "tags": [],
+          "group": null,
+          "stars": 297,
+          "last_push": "2026-01-23",
+          "line": 96
+        },
+        {
+          "name": "Falco",
+          "url": "https://falco.org/",
+          "description": "Behavioral activity monitor designed to detect anomalous activity in containerized applications, hosts, and network packet flows by auditing the Linux kernel and enriched by runtime data such as Kubernetes metrics.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 97
+        },
+        {
+          "name": "Kata Containers",
+          "url": "https://katacontainers.io/",
+          "description": "Secure container runtime with lightweight virtual machines that feel and perform like containers, but provide stronger workload isolation using hardware virtualization technology as a second layer of defense.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 98
+        },
+        {
+          "name": "Principal Mapper (PMapper)",
+          "url": "https://github.com/nccgroup/PMapper",
+          "description": "Quickly evaluate IAM permissions in AWS via script and library capable of identifying risks in the configuration of AWS Identity and Access Management (IAM) for an AWS account or an AWS organization.",
+          "tags": [],
+          "group": null,
+          "stars": 1580,
+          "last_push": "2024-08-02",
+          "line": 99
+        },
+        {
+          "name": "Prowler",
+          "url": "https://github.com/toniblyx/prowler",
+          "description": "Tool based on AWS-CLI commands for Amazon Web Services account security assessment and hardening.",
+          "tags": [],
+          "group": null,
+          "stars": 14854,
+          "last_push": "2026-09-23",
+          "line": 100
+        },
+        {
+          "name": "Scout Suite",
+          "url": "https://github.com/nccgroup/ScoutSuite",
+          "description": "source multi-cloud security-auditing tool, which enables security posture assessment of cloud environments.",
+          "tags": [
+            "Open"
+          ],
+          "group": null,
+          "stars": 7824,
+          "last_push": "2025-09-23",
+          "line": 101
+        },
+        {
+          "name": "gVisor",
+          "url": "https://github.com/google/gvisor",
+          "description": "Application kernel, written in Go, that implements a substantial portion of the Linux system surface to provide an isolation boundary between the application and the host kernel.",
+          "tags": [],
+          "group": null,
+          "stars": 19398,
+          "last_push": "2026-09-23",
+          "line": 102
+        },
+        {
+          "name": "Cortex",
+          "url": "https://cortexmetrics.io/",
+          "description": "Provides horizontally scalable, highly available, multi-tenant, long term storage for Prometheus.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 108
+        },
+        {
+          "name": "Jaeger",
+          "url": "https://www.jaegertracing.io/",
+          "description": "Distributed tracing platform backend used for monitoring and troubleshooting microservices-based distributed systems.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 109
+        },
+        {
+          "name": "OpenTelemetry",
+          "url": "https://opentelemetry.io/",
+          "description": "Observability framework for cloud-native software, comprising a collection of tools, APIs, and SDKs for exporting application performance metrics to a tracing backend (formerly maintained by the OpenTracing and OpenCensus projects).",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 110
+        },
+        {
+          "name": "Prometheus",
+          "url": "https://prometheus.io/",
+          "description": "source systems monitoring and alerting toolkit originally built at SoundCloud.",
+          "tags": [
+            "Open"
+          ],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 111
+        },
+        {
+          "name": "Zipkin",
+          "url": "https://zipkin.io/",
+          "description": "Distributed tracing system backend that helps gather timing data needed to troubleshoot latency problems in service architectures.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 112
+        },
+        {
+          "name": "KubeSec",
+          "url": "https://kubesec.io/",
+          "description": "Static analyzer of Kubernetes manifests that can be run locally, as a Kuberenetes admission controller, or as its own cloud service.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 118
+        },
+        {
+          "name": "Kyverno",
+          "url": "https://kyverno.io/",
+          "description": "Policy engine designed for Kubernetes.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 119
+        },
+        {
+          "name": "Linkerd",
+          "url": "https://linkerd.io/",
+          "description": "Ultra light Kubernetes-specific service mesh that adds observability, reliability, and security to Kubernetes applications without requiring any modification of the application itself.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 120
+        },
+        {
+          "name": "Managed Kubernetes Inspection Tool (MKIT)",
+          "url": "https://github.com/darkbitio/mkit",
+          "description": "Query and validate several common security-related configuration settings of managed Kubernetes cluster objects and the workloads/resources running inside the cluster.",
+          "tags": [],
+          "group": null,
+          "stars": 396,
+          "last_push": null,
+          "line": 121
+        },
+        {
+          "name": "Polaris",
+          "url": "https://polaris.docs.fairwinds.com/",
+          "description": "Validates Kubernetes best practices by running tests against code commits, a Kubernetes admission request, or live resources already running in a cluster.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 122
+        },
+        {
+          "name": "Sealed Secrets",
+          "url": "https://github.com/bitnami-labs/sealed-secrets",
+          "description": "Kubernetes controller and tool for one-way encrypted Secrets.",
+          "tags": [],
+          "group": null,
+          "stars": 9286,
+          "last_push": "2026-09-23",
+          "line": 123
+        },
+        {
+          "name": "certificate-expiry-monitor",
+          "url": "https://github.com/muxinc/certificate-expiry-monitor",
+          "description": "Utility that exposes the expiry of TLS certificates as Prometheus metrics.",
+          "tags": [],
+          "group": null,
+          "stars": 170,
+          "last_push": "2022-06-08",
+          "line": 124
+        },
+        {
+          "name": "k-rail",
+          "url": "https://github.com/cruise-automation/k-rail",
+          "description": "Workload policy enforcement tool for Kubernetes.",
+          "tags": [],
+          "group": null,
+          "stars": 440,
+          "last_push": null,
+          "line": 125
+        },
+        {
+          "name": "kube-forensics",
+          "url": "https://github.com/keikoproj/kube-forensics",
+          "description": "Allows a cluster administrator to dump the current state of a running pod and all its containers so that security professionals can perform off-line forensic analysis.",
+          "tags": [],
+          "group": null,
+          "stars": 234,
+          "last_push": "2026-09-12",
+          "line": 126
+        },
+        {
+          "name": "kube-hunter",
+          "url": "https://kube-hunter.aquasec.com/",
+          "description": "source tool that runs a set of tests (\"hunters\") for security issues in Kubernetes clusters from either outside (\"attacker's view\") or inside a cluster.",
+          "tags": [
+            "Open"
+          ],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 127
+        },
+        {
+          "name": "kubernetes-event-exporter",
+          "url": "https://github.com/opsgenie/kubernetes-event-exporter",
+          "description": "Allows exporting the often missed Kubernetes events to various outputs so that they can be used for observability or alerting purposes.",
+          "tags": [],
+          "group": null,
+          "stars": 1048,
+          "last_push": null,
+          "line": 128
+        },
+        {
+          "name": "Consul",
+          "url": "https://consul.io/",
+          "description": "Solution to connect and configure applications across dynamic, distributed infrastructure and, with Consul Connect, enabling secure service-to-service communication with automatic TLS encryption and identity-based authorization.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 134
+        },
+        {
+          "name": "Istio",
+          "url": "https://istio.io/",
+          "description": "platform for providing a uniform way to integrate microservices, manage traffic flow across microservices, enforce policies and aggregate telemetry data.",
+          "tags": [
+            "Open"
+          ],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 135
+        }
+      ]
+    },
+    {
+      "name": "Communications security (COMSEC)",
+      "entries": [
+        {
+          "name": "GPG Sync",
+          "url": "https://github.com/firstlookmedia/gpgsync",
+          "description": "Centralize and automate OpenPGP public key distribution, revocation, and updates amongst all members of an organization or team.",
+          "tags": [],
+          "group": null,
+          "stars": 348,
+          "last_push": null,
+          "line": 141
+        },
+        {
+          "name": "Geneva (Genetic Evasion)",
+          "url": "https://censorship.ai/",
+          "description": "Novel experimental genetic algorithm that evolves packet-manipulation-based censorship evasion strategies against nation-state level censors to increase availability of otherwise blocked content.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 142
+        },
+        {
+          "name": "GlobaLeaks",
+          "url": "https://www.globaleaks.org/",
+          "description": "Free, open source software enabling anyone to easily set up and maintain a secure whistleblowing platform.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 143
+        },
+        {
+          "name": "SecureDrop",
+          "url": "https://securedrop.org/",
+          "description": "source whistleblower submission system that media organizations and NGOs can install to securely accept documents from anonymous sources.",
+          "tags": [
+            "Open"
+          ],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 144
+        },
+        {
+          "name": "Teleport",
+          "url": "https://goteleport.com/",
+          "description": "Allows engineers and security professionals to unify access for SSH servers, Kubernetes clusters, web applications, and databases across all environments.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 145
+        }
+      ]
+    },
+    {
+      "name": "DevSecOps",
+      "entries": [
+        {
+          "name": "Bane",
+          "url": "https://github.com/genuinetools/bane",
+          "description": "Custom and better AppArmor profile generator for Docker containers.",
+          "tags": [],
+          "group": null,
+          "stars": 1230,
+          "last_push": "2020-09-17",
+          "line": 151
+        },
+        {
+          "name": "BlackBox",
+          "url": "https://github.com/StackExchange/blackbox",
+          "description": "Safely store secrets in Git/Mercurial/Subversion by encrypting them \"at rest\" using GnuPG.",
+          "tags": [],
+          "group": null,
+          "stars": 6767,
+          "last_push": null,
+          "line": 152
+        },
+        {
+          "name": "Checkov",
+          "url": "https://www.checkov.io/",
+          "description": "Static analysis for Terraform (infrastructure as code) to help detect CIS policy violations and prevent cloud security misconfiguration.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 153
+        },
+        {
+          "name": "Cilium",
+          "url": "https://cilium.io/",
+          "description": "source software for transparently securing the network connectivity between application services deployed using Linux container management platforms like Docker and Kubernetes.",
+          "tags": [
+            "Open"
+          ],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 154
+        },
+        {
+          "name": "Clair",
+          "url": "https://github.com/coreos/clair",
+          "description": "Static analysis tool to probe for vulnerabilities introduced via application container (e.g., Docker) images.",
+          "tags": [],
+          "group": null,
+          "stars": 11064,
+          "last_push": "2026-09-22",
+          "line": 155
+        },
+        {
+          "name": "CodeQL",
+          "url": "https://securitylab.github.com/tools/codeql",
+          "description": "Discover vulnerabilities across a codebase by performing queries against code as though it were data.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 156
+        },
+        {
+          "name": "DefectDojo",
+          "url": "https://www.defectdojo.org/",
+          "description": "Application vulnerability management tool built for DevOps and continuous security integration.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 157
+        },
+        {
+          "name": "Gauntlt",
+          "url": "http://gauntlt.org/",
+          "description": "Pentest applications during routine continuous integration build pipelines.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 158
+        },
+        {
+          "name": "Git Secrets",
+          "url": "https://github.com/awslabs/git-secrets",
+          "description": "Prevents you from committing passwords and other sensitive information to a git repository.",
+          "tags": [],
+          "group": null,
+          "stars": 13403,
+          "last_push": "2025-09-17",
+          "line": 159
+        },
+        {
+          "name": "SOPS",
+          "url": "https://github.com/mozilla/sops",
+          "description": "Editor of encrypted files that supports YAML, JSON, ENV, INI and binary formats and encrypts with AWS KMS, GCP KMS, Azure Key Vault, and PGP.",
+          "tags": [],
+          "group": null,
+          "stars": 23194,
+          "last_push": "2026-09-21",
+          "line": 160
+        },
+        {
+          "name": "Snyk",
+          "url": "https://snyk.io/",
+          "description": "Finds and fixes vulnerabilities and license violations in open source dependencies and container images.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 161
+        },
+        {
+          "name": "SonarQube",
+          "url": "https://sonarqube.org",
+          "description": "Continuous inspection tool that provides detailed reports during automated testing and alerts on newly introduced security vulnerabilities.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 162
+        },
+        {
+          "name": "Trivy",
+          "url": "https://github.com/aquasecurity/trivy",
+          "description": "Simple and comprehensive vulnerability scanner for containers and other artifacts, suitable for use in continuous integration pipelines.",
+          "tags": [],
+          "group": null,
+          "stars": 38035,
+          "last_push": "2026-09-23",
+          "line": 163
+        },
+        {
+          "name": "Vault",
+          "url": "https://www.vaultproject.io/",
+          "description": "Tool for securely accessing secrets such as API keys, passwords, or certificates through a unified interface.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 164
+        },
+        {
+          "name": "git-crypt",
+          "url": "https://www.agwa.name/projects/git-crypt/",
+          "description": "Transparent file encryption in git; files which you choose to protect are encrypted when committed, and decrypted when checked out.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 165
+        },
+        {
+          "name": "helm-secrets",
+          "url": "https://github.com/jkroepke/helm-secrets",
+          "description": "Helm plugin that helps manage secrets with Git workflow and stores them anywhere, backed by SOPS.",
+          "tags": [],
+          "group": null,
+          "stars": 2030,
+          "last_push": "2026-09-11",
+          "line": 166
+        },
+        {
+          "name": "terrascan",
+          "url": "https://runterrascan.io/",
+          "description": "Static code analyzer for Infrastructure as Code tools that helps detect compliance and security violations to mitigate risk before provisioning cloud native resources.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 167
+        },
+        {
+          "name": "tfsec",
+          "url": "https://aquasecurity.github.io/tfsec/",
+          "description": "Static analysis security scanner for your Terraform code designed to run locally and in CI pipelines.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 168
+        },
+        {
+          "name": "DynInst",
+          "url": "https://dyninst.org/dyninst",
+          "description": "Tools for binary instrumentation, analysis, and modification, useful for binary patching.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 172
+        },
+        {
+          "name": "DynamoRIO",
+          "url": "https://dynamorio.org/",
+          "description": "Runtime code manipulation system that supports code transformations on any part of a program, while it executes, implemented as a process-level virtual machine.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 173
+        },
+        {
+          "name": "Egalito",
+          "url": "https://egalito.org/",
+          "description": "Binary recompiler and instrumentation framework that can fully disassemble, transform, and regenerate ordinary Linux binaries designed for binary hardening and security research.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 174
+        },
+        {
+          "name": "Valgrind",
+          "url": "https://www.valgrind.org/",
+          "description": "Instrumentation framework for building dynamic analysis tools.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 175
+        },
+        {
+          "name": "Chef InSpec",
+          "url": "https://www.chef.io/products/chef-inspec",
+          "description": "Language for describing security and compliance rules, which become automated tests that can be run against IT infrastructures to discover and report on non-compliance.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 179
+        },
+        {
+          "name": "OpenSCAP Base",
+          "url": "https://www.open-scap.org/tools/openscap-base/",
+          "description": "Both a library and a command line tool (`oscap`) used to evaluate a system against SCAP baseline profiles to report on the security posture of the scanned system(s).",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 180
+        },
+        {
+          "name": "Dependency Combobulator",
+          "url": "https://github.com/apiiro/combobulator",
+          "description": "source, modular and extensible framework to detect and prevent dependency confusion leakage and potential attacks.",
+          "tags": [
+            "Open"
+          ],
+          "group": null,
+          "stars": 96,
+          "last_push": "2024-01-10",
+          "line": 186
+        },
+        {
+          "name": "Confusion checker",
+          "url": "https://github.com/sonatype-nexus-community/repo-diff",
+          "description": "Script to check if you have artifacts containing the same name between your repositories.",
+          "tags": [],
+          "group": null,
+          "stars": 63,
+          "last_push": null,
+          "line": 187
+        },
+        {
+          "name": "snync",
+          "url": "https://github.com/snyk-labs/snync",
+          "description": "Prevent and detect if you're vulnerable to dependency confusion supply chain security attacks.",
+          "tags": [],
+          "group": null,
+          "stars": 53,
+          "last_push": "2026-07-10",
+          "line": 188
+        },
+        {
+          "name": "Atheris",
+          "url": "https://pypi.org/project/atheris/",
+          "description": "Coverage-guided Python fuzzing engine based off of libFuzzer that supports fuzzing of Python code but also native extensions written for CPython.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 194
+        },
+        {
+          "name": "FuzzBench",
+          "url": "https://google.github.io/fuzzbench/",
+          "description": "Free service that evaluates fuzzers on a wide variety of real-world benchmarks, at Google scale.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 195
+        },
+        {
+          "name": "OneFuzz",
+          "url": "https://github.com/microsoft/onefuzz",
+          "description": "Self-hosted Fuzzing-as-a-Service (FaaS) platform.",
+          "tags": [],
+          "group": null,
+          "stars": 2823,
+          "last_push": null,
+          "line": 196
+        },
+        {
+          "name": "AllStar",
+          "url": "https://github.com/ossf/allstar",
+          "description": "GitHub App installed on organizations or repositories to set and enforce security policies.",
+          "tags": [],
+          "group": null,
+          "stars": 1453,
+          "last_push": "2026-09-19",
+          "line": 200
+        },
+        {
+          "name": "Conftest",
+          "url": "https://conftest.dev/",
+          "description": "Utility to help you write tests against structured configuration data.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 201
+        },
+        {
+          "name": "Open Policy Agent (OPA)",
+          "url": "https://www.openpolicyagent.org/",
+          "description": "Unified toolset and framework for policy across the cloud native stack.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 202
+        },
+        {
+          "name": "Regula",
+          "url": "https://regula.dev/",
+          "description": "Checks infrastructure as code templates (Terraform, CloudFormation, K8s manifests) for AWS, Azure, Google Cloud, and Kubernetes security and compliance using Open Policy Agent/Rego.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 203
+        },
+        {
+          "name": "Tang",
+          "url": "https://github.com/latchset/tang",
+          "description": "Server for binding data to network presence; provides data to clients only when they are on a certain (secured) network.",
+          "tags": [],
+          "group": null,
+          "stars": 733,
+          "last_push": "2025-03-06",
+          "line": 204
+        },
+        {
+          "name": "Grafeas",
+          "url": "https://grafeas.io/",
+          "description": "artifact metadata API to audit and govern your software supply chain.",
+          "tags": [
+            "Open"
+          ],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 210
+        },
+        {
+          "name": "Helm GPG (GnuPG) Plugin",
+          "url": "https://github.com/technosophos/helm-gpg",
+          "description": "Chart signing and verification with GnuPG for Helm.",
+          "tags": [],
+          "group": null,
+          "stars": 29,
+          "last_push": "2020-02-20",
+          "line": 211
+        },
+        {
+          "name": "Notary",
+          "url": "https://github.com/theupdateframework/notary",
+          "description": "Aims to make the internet more secure by making it easy for people to publish and verify content.",
+          "tags": [],
+          "group": null,
+          "stars": 3288,
+          "last_push": null,
+          "line": 212
+        },
+        {
+          "name": "in-toto",
+          "url": "https://in-toto.io/",
+          "description": "Framework to secure the integrity of software supply chains.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 213
+        }
+      ]
+    },
+    {
+      "name": "Honeypots",
+      "entries": [
+        {
+          "name": "CanaryTokens",
+          "url": "https://github.com/thinkst/canarytokens",
+          "description": "Self-hostable honeytoken generator and reporting dashboard; demo version available at CanaryTokens.org.",
+          "tags": [],
+          "group": null,
+          "stars": 2166,
+          "last_push": "2026-09-16",
+          "line": 219
+        },
+        {
+          "name": "Kushtaka",
+          "url": "https://kushtaka.org",
+          "description": "Sustainable all-in-one honeypot and honeytoken orchestrator for under-resourced blue teams.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 220
+        },
+        {
+          "name": "Manuka",
+          "url": "https://github.com/spaceraccoon/manuka",
+          "description": "sources intelligence (OSINT) honeypot that monitors reconnaissance attempts by threat actors and generates actionable intelligence for Blue Teamers.",
+          "tags": [
+            "Open"
+          ],
+          "group": null,
+          "stars": 349,
+          "last_push": "2023-05-02",
+          "line": 221
+        },
+        {
+          "name": "Endlessh",
+          "url": "https://github.com/skeeto/endlessh",
+          "description": "SSH tarpit that slowly sends an endless banner.",
+          "tags": [],
+          "group": null,
+          "stars": 8561,
+          "last_push": "2024-06-03",
+          "line": 225
+        },
+        {
+          "name": "LaBrea",
+          "url": "https://labrea.sourceforge.net/labrea-info.html",
+          "description": "Program that answers ARP requests for unused IP space, creating the appearance of fake machines that answer further requests very slowly in order to slow down scanners, worms, etcetera.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 226
+        }
+      ]
+    },
+    {
+      "name": "Host-based tools",
+      "entries": [
+        {
+          "name": "Artillery",
+          "url": "https://github.com/BinaryDefense/artillery",
+          "description": "Combination honeypot, filesystem monitor, and alerting system designed to protect Linux and Windows operating systems.",
+          "tags": [],
+          "group": null,
+          "stars": 1041,
+          "last_push": "2022-01-06",
+          "line": 230
+        },
+        {
+          "name": "Crowd Inspect",
+          "url": "https://www.crowdstrike.com/resources/community-tools/crowdinspect-tool/",
+          "description": "Free tool for Windows systems aimed to alert you to the presence of malware that may be communicating over the network.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 231
+        },
+        {
+          "name": "Fail2ban",
+          "url": "https://www.fail2ban.org/",
+          "description": "Intrusion prevention software framework that protects computer servers from brute-force attacks.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 232
+        },
+        {
+          "name": "Open Source HIDS SECurity (OSSEC)",
+          "url": "https://www.ossec.net/",
+          "description": "Fully open source and free, feature-rich, Host-based Instrusion Detection System (HIDS).",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 233
+        },
+        {
+          "name": "Rootkit Hunter (rkhunter)",
+          "url": "https://rkhunter.sourceforge.net/",
+          "description": "POSIX-compliant Bash script that scans a host for various signs of malware.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 234
+        },
+        {
+          "name": "Shufflecake",
+          "url": "https://shufflecake.net/",
+          "description": "Plausible deniability for multiple hidden filesystems on Linux.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 235
+        },
+        {
+          "name": "USB Keystroke Injection Protection",
+          "url": "https://github.com/google/ukip",
+          "description": "Daemon for blocking USB keystroke injection devices on Linux systems.",
+          "tags": [],
+          "group": null,
+          "stars": 549,
+          "last_push": "2023-07-09",
+          "line": 236
+        },
+        {
+          "name": "chkrootkit",
+          "url": "https://chkrootkit.org/",
+          "description": "Locally checks for signs of a rootkit on GNU/Linux systems.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 237
+        },
+        {
+          "name": "Bubblewrap",
+          "url": "https://github.com/containers/bubblewrap",
+          "description": "Sandboxing tool for use by unprivileged Linux users capable of restricting access to parts of the operating system or user data.",
+          "tags": [],
+          "group": null,
+          "stars": 8804,
+          "last_push": "2026-09-22",
+          "line": 241
+        },
+        {
+          "name": "Dangerzone",
+          "url": "https://dangerzone.rocks/",
+          "description": "Take potentially dangerous PDFs, office documents, or images and convert them to a safe PDF.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 242
+        },
+        {
+          "name": "Firejail",
+          "url": "https://firejail.wordpress.com/",
+          "description": "SUID program that reduces the risk of security breaches by restricting the running environment of untrusted applications using Linux namespaces and seccomp-bpf.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 243
+        }
+      ]
+    },
+    {
+      "name": "Identity and AuthN/AuthZ",
+      "entries": [
+        {
+          "name": "Gluu Server",
+          "url": "https://gluu.org/",
+          "description": "Central authentication and authorization for Web and mobile applications with a Free and Open Source Software cloud-native community distribution.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 247
+        }
+      ]
+    },
+    {
+      "name": "Incident Response tools",
+      "entries": [
+        {
+          "name": "LogonTracer",
+          "url": "https://github.com/JPCERTCC/LogonTracer",
+          "description": "Investigate malicious Windows logon by visualizing and analyzing Windows event log.",
+          "tags": [],
+          "group": null,
+          "stars": 3231,
+          "last_push": "2026-08-02",
+          "line": 253
+        },
+        {
+          "name": "Volatility",
+          "url": "https://www.volatilityfoundation.org/",
+          "description": "Advanced memory forensics framework.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 254
+        },
+        {
+          "name": "aws_ir",
+          "url": "https://github.com/ThreatResponse/aws_ir",
+          "description": "Automates your incident response with zero security preparedness assumptions.",
+          "tags": [],
+          "group": null,
+          "stars": 342,
+          "last_push": "2021-07-23",
+          "line": 255
+        },
+        {
+          "name": "CIRTKit",
+          "url": "https://github.com/opensourcesec/CIRTKit",
+          "description": "Scriptable Digital Forensics and Incident Response (DFIR) toolkit built on Viper.",
+          "tags": [],
+          "group": null,
+          "stars": 153,
+          "last_push": "2017-04-17",
+          "line": 261
+        },
+        {
+          "name": "Fast Incident Response (FIR)",
+          "url": "https://github.com/certsocietegenerale/FIR",
+          "description": "Cybersecurity incident management platform allowing for easy creation, tracking, and reporting of cybersecurity incidents.",
+          "tags": [],
+          "group": null,
+          "stars": 2037,
+          "last_push": "2026-09-14",
+          "line": 262
+        },
+        {
+          "name": "Rekall",
+          "url": "https://www.rekall-forensic.com/",
+          "description": "Advanced forensic and incident response framework.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 263
+        },
+        {
+          "name": "TheHive",
+          "url": "https://thehive-project.org/",
+          "description": "Scalable, free Security Incident Response Platform designed to make life easier for SOCs, CSIRTs, and CERTs, featuring tight integration with MISP.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 264
+        },
+        {
+          "name": "threat_note",
+          "url": "https://github.com/defpoint/threat_note",
+          "description": "Web application built by Defense Point Security to allow security researchers the ability to add and retrieve indicators related to their research.",
+          "tags": [],
+          "group": null,
+          "stars": 435,
+          "last_push": null,
+          "line": 265
+        },
+        {
+          "name": "OSXAuditor",
+          "url": "https://github.com/jipegit/OSXAuditor",
+          "description": "Free macOS computer forensics tool.",
+          "tags": [],
+          "group": null,
+          "stars": 3132,
+          "last_push": "2020-07-27",
+          "line": 269
+        },
+        {
+          "name": "OSXCollector",
+          "url": "https://github.com/Yelp/osxcollector",
+          "description": "Forensic evidence collection & analysis toolkit for macOS.",
+          "tags": [],
+          "group": null,
+          "stars": 1891,
+          "last_push": null,
+          "line": 270
+        },
+        {
+          "name": "ir-rescue",
+          "url": "https://github.com/diogo-fernan/ir-rescue",
+          "description": "Windows Batch script and a Unix Bash script to comprehensively collect host forensic data during incident response.",
+          "tags": [],
+          "group": null,
+          "stars": 488,
+          "last_push": "2021-02-21",
+          "line": 271
+        },
+        {
+          "name": "Margarita Shotgun",
+          "url": "https://github.com/ThreatResponse/margaritashotgun",
+          "description": "Command line utility (that works with or without Amazon EC2 instances) to parallelize remote memory acquisition.",
+          "tags": [],
+          "group": null,
+          "stars": 253,
+          "last_push": "2020-09-22",
+          "line": 272
+        },
+        {
+          "name": "Untitled Goose Tool",
+          "url": "https://github.com/cisagov/untitledgoosetool",
+          "description": "Assists incident response teams by exporting cloud artifacts from Azure/AzureAD/M365 environments in order to run a full investigation despite lacking in logs ingested by a SIEM.",
+          "tags": [],
+          "group": null,
+          "stars": 965,
+          "last_push": "2026-02-11",
+          "line": 273
+        }
+      ]
+    },
+    {
+      "name": "Network perimeter defenses",
+      "entries": [
+        {
+          "name": "Gatekeeper",
+          "url": "https://github.com/AltraMayor/gatekeeper",
+          "description": "First open source Distributed Denial of Service (DDoS) protection system.",
+          "tags": [],
+          "group": null,
+          "stars": 1644,
+          "last_push": "2026-09-22",
+          "line": 277
+        },
+        {
+          "name": "fwknop",
+          "url": "https://www.cipherdyne.org/fwknop/",
+          "description": "Protects ports via Single Packet Authorization in your firewall.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 278
+        },
+        {
+          "name": "ssh-audit",
+          "url": "https://github.com/jtesta/ssh-audit",
+          "description": "Simple tool that makes quick recommendations for improving an SSH server's security posture.",
+          "tags": [],
+          "group": null,
+          "stars": 4304,
+          "last_push": "2026-07-09",
+          "line": 279
+        },
+        {
+          "name": "IPFire",
+          "url": "https://www.ipfire.org/",
+          "description": "Hardened GNU/Linux based router and firewall distribution forked from IPCop.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 285
+        },
+        {
+          "name": "OPNsense",
+          "url": "https://opnsense.org/",
+          "description": "Hardened FreeBSD based firewall and routing platform forked from pfSense.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 286
+        },
+        {
+          "name": "pfSense",
+          "url": "https://www.pfsense.org/",
+          "description": "FreeBSD firewall and router distribution forked from m0n0wall.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 287
+        }
+      ]
+    },
+    {
+      "name": "Operating System distributions",
+      "entries": [
+        {
+          "name": "Computer Aided Investigative Environment (CAINE)",
+          "url": "https://caine-live.net/",
+          "description": "Italian GNU/Linux live distribution that pre-packages numerous digital forensics and evidence collection tools.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 291
+        },
+        {
+          "name": "Security Onion",
+          "url": "https://securityonionsolutions.com/",
+          "description": "Free and open source GNU/Linux distribution for intrusion detection, enterprise security monitoring, and log management.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 292
+        },
+        {
+          "name": "Qubes OS",
+          "url": "https://qubes-os.org/",
+          "description": "Desktop environment built atop the Xen hypervisor project that runs each end-user program in its own virtual machine intended to provide strict security controls to constrain the reach of any successful malware exploit.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 293
+        }
+      ]
+    },
+    {
+      "name": "Phishing awareness and reporting",
+      "entries": [
+        {
+          "name": "CertSpotter",
+          "url": "https://github.com/SSLMate/certspotter",
+          "description": "Certificate Transparency log monitor from SSLMate that alerts you when a SSL/TLS certificate is issued for one of your domains.",
+          "tags": [],
+          "group": null,
+          "stars": 1176,
+          "last_push": "2026-09-13",
+          "line": 299
+        },
+        {
+          "name": "Gophish",
+          "url": "https://getgophish.com/",
+          "description": "Powerful, open-source phishing framework that makes it easy to test your organization's exposure to phishing.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 300
+        },
+        {
+          "name": "King Phisher",
+          "url": "https://github.com/securestate/king-phisher",
+          "description": "Tool for testing and promoting user awareness by simulating real world phishing attacks.",
+          "tags": [],
+          "group": null,
+          "stars": 2592,
+          "last_push": "2026-08-04",
+          "line": 301
+        },
+        {
+          "name": "NotifySecurity",
+          "url": "https://github.com/certsocietegenerale/NotifySecurity",
+          "description": "Outlook add-in used to help your users to report suspicious e-mails to security teams.",
+          "tags": [],
+          "group": null,
+          "stars": 132,
+          "last_push": null,
+          "line": 302
+        },
+        {
+          "name": "Phishing Intelligence Engine (PIE)",
+          "url": "https://github.com/LogRhythm-Labs/PIE",
+          "description": "Framework that will assist with the detection and response to phishing attacks.",
+          "tags": [],
+          "group": null,
+          "stars": 179,
+          "last_push": "2020-04-13",
+          "line": 303
+        },
+        {
+          "name": "Swordphish",
+          "url": "https://github.com/certsocietegenerale/swordphish-awareness",
+          "description": "Platform allowing to create and manage (fake) phishing campaigns intended to train people in identifying suspicious mails.",
+          "tags": [],
+          "group": null,
+          "stars": 226,
+          "last_push": "2024-09-22",
+          "line": 304
+        },
+        {
+          "name": "mailspoof",
+          "url": "https://github.com/serain/mailspoof",
+          "description": "Scans SPF and DMARC records for issues that could allow email spoofing.",
+          "tags": [],
+          "group": null,
+          "stars": 137,
+          "last_push": "2022-12-08",
+          "line": 305
+        },
+        {
+          "name": "phishing_catcher",
+          "url": "https://github.com/x0rz/phishing_catcher",
+          "description": "Configurable script to watch for issuances of suspicious TLS certificates by domain name in the Certificate Transparency Log (CTL) using the CertStream service.",
+          "tags": [],
+          "group": null,
+          "stars": 1823,
+          "last_push": "2024-08-13",
+          "line": 306
+        }
+      ]
+    },
+    {
+      "name": "Preparedness training and wargaming",
+      "entries": [
+        {
+          "name": "APTSimulator",
+          "url": "https://github.com/NextronSystems/APTSimulator",
+          "description": "Toolset to make a system look as if it was the victim of an APT attack.",
+          "tags": [],
+          "group": null,
+          "stars": 2771,
+          "last_push": "2025-09-23",
+          "line": 312
+        },
+        {
+          "name": "Atomic Red Team",
+          "url": "https://atomicredteam.io/",
+          "description": "Library of simple, automatable tests to execute for testing security controls.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 313
+        },
+        {
+          "name": "BadBlood",
+          "url": "https://www.secframe.com/badblood/",
+          "description": "Fills a test (non-production) Windows Domain with data that enables security analysts and engineers to practice using tools to gain an understanding and prescribe to securing Active Directory.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 314
+        },
+        {
+          "name": "Caldera",
+          "url": "https://caldera.mitre.org/",
+          "description": "Scalable, automated, and extensible adversary emulation platform developed by MITRE.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 315
+        },
+        {
+          "name": "Drool",
+          "url": "https://www.dns-oarc.net/tools/drool",
+          "description": "Replay DNS traffic from packet capture files and send it to a specified server, such as for simulating DDoS attacks on the DNS and measuring normal DNS querying.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 316
+        },
+        {
+          "name": "DumpsterFire",
+          "url": "https://github.com/TryCatchHCF/DumpsterFire",
+          "description": "Modular, menu-driven, cross-platform tool for building repeatable, time-delayed, distributed security events for Blue Team drills and sensor/alert mapping.",
+          "tags": [],
+          "group": null,
+          "stars": 1041,
+          "last_push": "2020-05-27",
+          "line": 317
+        },
+        {
+          "name": "Infection Monkey",
+          "url": "https://www.guardicore.com/infectionmonkey/",
+          "description": "source breach and attack simulation (BAS) platform that helps you validate existing controls and identify how attackers might exploit your current network security gaps.",
+          "tags": [
+            "Open"
+          ],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 318
+        },
+        {
+          "name": "Metta",
+          "url": "https://github.com/uber-common/metta",
+          "description": "Automated information security preparedness tool to do adversarial simulation.",
+          "tags": [],
+          "group": null,
+          "stars": 1146,
+          "last_push": "2019-04-01",
+          "line": 319
+        },
+        {
+          "name": "Network Flight Simulator (flightsim)",
+          "url": "https://github.com/alphasoc/flightsim",
+          "description": "Utility to generate malicious network traffic and help security teams evaluate security controls and audit their network visibility.",
+          "tags": [],
+          "group": null,
+          "stars": 1365,
+          "last_push": "2024-04-04",
+          "line": 320
+        },
+        {
+          "name": "RedHunt OS",
+          "url": "https://github.com/redhuntlabs/RedHunt-OS",
+          "description": "Ubuntu-based Open Virtual Appliance (`.ova`) preconfigured with several threat emulation tools as well as a defender's toolkit.",
+          "tags": [],
+          "group": null,
+          "stars": 1320,
+          "last_push": "2025-01-22",
+          "line": 321
+        },
+        {
+          "name": "Stratus Red Team",
+          "url": "https://stratus-red-team.cloud/",
+          "description": "Emulate offensive attack techniques in a granular and self-contained manner against a cloud environment; think \"Atomic Red Team™\" for the cloud.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 322
+        },
+        {
+          "name": "tcpreplay",
+          "url": "https://tcpreplay.appneta.com/",
+          "description": "Suite of free Open Source utilities for editing and replaying previously captured network traffic originally designed to replay malicious traffic patterns to Intrusion Detection/Prevention Systems.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 323
+        },
+        {
+          "name": "RedEye",
+          "url": "https://cisagov.github.io/RedEye/",
+          "description": "Analytic tool to assist both Red and Blue teams with visualizing and reporting command and control activities, replay and demonstrate attack paths, and more clearly communicate remediation recommendations to stakeholders.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 327
+        }
+      ]
+    },
+    {
+      "name": "Security configurations",
+      "entries": [
+        {
+          "name": "Bunkerized-nginx",
+          "url": "https://github.com/bunkerity/bunkerized-nginx",
+          "description": "Docker image of an NginX configuration and scripts implementing many defensive techniques for Web sites.",
+          "tags": [],
+          "group": null,
+          "stars": 10994,
+          "last_push": "2026-09-23",
+          "line": 333
+        }
+      ]
+    },
+    {
+      "name": "Security monitoring",
+      "entries": [
+        {
+          "name": "Crossfeed",
+          "url": "https://docs.crossfeed.cyber.dhs.gov/",
+          "description": "Continuously enumerates and monitors an organization’s public-facing attack surface in order to discover assets and flag potential security flaws.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 337
+        },
+        {
+          "name": "Starbase",
+          "url": "https://github.com/JupiterOne/starbase",
+          "description": "Collects assets and relationships from services and systems into an intuitive graph view to offer graph-based security analysis for everyone.",
+          "tags": [],
+          "group": null,
+          "stars": 362,
+          "last_push": "2026-02-19",
+          "line": 338
+        },
+        {
+          "name": "Wazuh",
+          "url": "https://wazuh.com/",
+          "description": "source, multiplatform agent-based security monitoring based on a fork of OSSEC HIDS.",
+          "tags": [
+            "Open"
+          ],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 342
+        },
+        {
+          "name": "Arkime",
+          "url": "https://github.com/arkime/arkime",
+          "description": "Augments your current security infrastructure to store and index network traffic in standard PCAP format, providing fast, indexed access.",
+          "tags": [],
+          "group": null,
+          "stars": 7473,
+          "last_push": "2026-09-22",
+          "line": 348
+        },
+        {
+          "name": "ChopShop",
+          "url": "https://github.com/MITRECND/chopshop",
+          "description": "Framework to aid analysts in the creation and execution of pynids-based decoders and detectors of APT tradecraft.",
+          "tags": [],
+          "group": null,
+          "stars": 494,
+          "last_push": null,
+          "line": 349
+        },
+        {
+          "name": "Maltrail",
+          "url": "https://github.com/stamparm/maltrail",
+          "description": "Malicious network traffic detection system.",
+          "tags": [],
+          "group": null,
+          "stars": 8609,
+          "last_push": "2026-09-21",
+          "line": 350
+        },
+        {
+          "name": "OwlH",
+          "url": "https://www.owlh.net/",
+          "description": "Helps manage network IDS at scale by visualizing Suricata, Zeek, and Moloch life cycles.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 351
+        },
+        {
+          "name": "Real Intelligence Threat Analysis (RITA)",
+          "url": "https://github.com/activecm/rita",
+          "description": "source framework for network traffic analysis that ingests Zeek logs and detects beaconing, DNS tunneling, and more.",
+          "tags": [
+            "Open"
+          ],
+          "group": null,
+          "stars": 640,
+          "last_push": "2026-06-17",
+          "line": 352
+        },
+        {
+          "name": "Respounder",
+          "url": "https://github.com/codeexpress/respounder",
+          "description": "Detects the presence of the Responder LLMNR/NBT-NS/MDNS poisoner on a network.",
+          "tags": [],
+          "group": null,
+          "stars": 323,
+          "last_push": "2019-06-15",
+          "line": 353
+        },
+        {
+          "name": "Snort",
+          "url": "https://snort.org/",
+          "description": "Widely-deployed, Free Software IPS capable of real-time packet analysis, traffic logging, and custom rule-based triggers.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 354
+        },
+        {
+          "name": "SpoofSpotter",
+          "url": "https://github.com/NetSPI/SpoofSpotter",
+          "description": "Catch spoofed NetBIOS Name Service (NBNS) responses and alert to an email or log file.",
+          "tags": [],
+          "group": null,
+          "stars": 51,
+          "last_push": "2018-06-13",
+          "line": 355
+        },
+        {
+          "name": "Stenographer",
+          "url": "https://github.com/google/stenographer",
+          "description": "Full-packet-capture utility for buffering packets to disk for intrusion detection and incident response purposes.",
+          "tags": [],
+          "group": null,
+          "stars": 1796,
+          "last_push": null,
+          "line": 356
+        },
+        {
+          "name": "Suricata",
+          "url": "https://suricata-ids.org/",
+          "description": "Free, cross-platform, IDS/IPS with on- and off-line analysis modes and deep packet inspection capabilities that is also scriptable with Lua.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 357
+        },
+        {
+          "name": "Tsunami",
+          "url": "https://github.com/google/tsunami-security-scanner",
+          "description": "General purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.",
+          "tags": [],
+          "group": null,
+          "stars": 8618,
+          "last_push": "2026-06-23",
+          "line": 358
+        },
+        {
+          "name": "VAST",
+          "url": "https://github.com/tenzir/vast",
+          "description": "Free and open-source network telemetry engine for data-driven security investigations.",
+          "tags": [],
+          "group": null,
+          "stars": 761,
+          "last_push": "2026-09-23",
+          "line": 359
+        },
+        {
+          "name": "Wireshark",
+          "url": "https://www.wireshark.org",
+          "description": "Free and open-source packet analyzer useful for network troubleshooting or forensic netflow analysis.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 360
+        },
+        {
+          "name": "Zeek",
+          "url": "https://zeek.org/",
+          "description": "Powerful network analysis framework focused on security monitoring, formerly known as Bro.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 361
+        },
+        {
+          "name": "netsniff-ng",
+          "url": "http://netsniff-ng.org/",
+          "description": "Free and fast GNU/Linux networking toolkit with numerous utilities such as a connection tracking tool (`flowtop`), traffic generator (`trafgen`), and autonomous system (AS) trace route utility (`astraceroute`).",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 362
+        },
+        {
+          "name": "AlienVault OSSIM",
+          "url": "https://www.alienvault.com/open-threat-exchange/projects",
+          "description": "Single-server open source SIEM platform featuring asset discovery, asset inventorying, behavioral monitoring, and event correlation, driven by AlienVault Open Threat Exchange (OTX).",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 366
+        },
+        {
+          "name": "Prelude SIEM OSS",
+          "url": "https://www.prelude-siem.org/",
+          "description": "source, agentless SIEM with a long history and several commercial variants featuring security event collection, normalization, and alerting from arbitrary log input and numerous popular monitoring tools.",
+          "tags": [
+            "Open"
+          ],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 367
+        },
+        {
+          "name": "Icinga",
+          "url": "https://icinga.com/",
+          "description": "Modular redesign of Nagios with pluggable user interfaces and an expanded set of data connectors, collectors, and reporting tools.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 373
+        },
+        {
+          "name": "Locust",
+          "url": "https://locust.io/",
+          "description": "source load testing tool in which you can define user behaviour with Python code and swarm your system with millions of simultaneous users.",
+          "tags": [
+            "Open"
+          ],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 374
+        },
+        {
+          "name": "Nagios",
+          "url": "https://nagios.org",
+          "description": "Popular network and service monitoring solution and reporting platform.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 375
+        },
+        {
+          "name": "OpenNMS",
+          "url": "https://opennms.org/",
+          "description": "Free and feature-rich networking monitoring system supporting multiple configurations, a variety of alerting mechanisms (email, XMPP, SMS), and numerous data collection methods (SNMP, HTTP, JDBC, etc).",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 376
+        },
+        {
+          "name": "osquery",
+          "url": "https://github.com/facebook/osquery",
+          "description": "Operating system instrumentation framework for macOS, Windows, and Linux, exposing the OS as a high-performance relational database that can be queried with a SQL-like syntax.",
+          "tags": [],
+          "group": null,
+          "stars": 23587,
+          "last_push": "2026-09-22",
+          "line": 377
+        },
+        {
+          "name": "Zabbix",
+          "url": "https://www.zabbix.com/",
+          "description": "Mature, enterprise-level platform to monitor large-scale IT environments.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 378
+        },
+        {
+          "name": "CimSweep",
+          "url": "https://github.com/PowerShellMafia/CimSweep",
+          "description": "Suite of CIM/WMI-based tools enabling remote incident response and hunting operations across all versions of Windows.",
+          "tags": [],
+          "group": null,
+          "stars": 657,
+          "last_push": "2019-08-19",
+          "line": 386
+        },
+        {
+          "name": "DeepBlueCLI",
+          "url": "https://github.com/sans-blue-team/DeepBlueCLI",
+          "description": "PowerShell module for hunt teaming via Windows Event logs.",
+          "tags": [],
+          "group": null,
+          "stars": 2428,
+          "last_push": "2023-10-14",
+          "line": 387
+        },
+        {
+          "name": "GRR Rapid Response",
+          "url": "https://github.com/google/grr",
+          "description": "Incident response framework focused on remote live forensics consisting of a Python agent installed on assets and Python-based server infrastructure enabling analysts to quickly triage attacks and perform analysis remotely.",
+          "tags": [],
+          "group": null,
+          "stars": 5089,
+          "last_push": "2026-05-12",
+          "line": 388
+        },
+        {
+          "name": "Hunting ELK (HELK)",
+          "url": "https://github.com/Cyb3rWard0g/HELK",
+          "description": "All-in-one Free Software threat hunting stack based on Elasticsearch, Logstash, Kafka, and Kibana with various built-in integrations for analytics including Jupyter Notebook.",
+          "tags": [],
+          "group": null,
+          "stars": 3928,
+          "last_push": "2024-06-01",
+          "line": 389
+        },
+        {
+          "name": "Logging Made Easy (LME)",
+          "url": "https://www.cisa.gov/resources-tools/services/logging-made-easy",
+          "description": "Free and open logging and protective monitoring solution serving.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 390
+        },
+        {
+          "name": "MozDef",
+          "url": "https://github.com/mozilla/MozDef",
+          "description": "Automate the security incident handling process and facilitate the real-time activities of incident handlers.",
+          "tags": [],
+          "group": null,
+          "stars": 2159,
+          "last_push": null,
+          "line": 391
+        },
+        {
+          "name": "PSHunt",
+          "url": "https://github.com/Infocyte/PSHunt",
+          "description": "PowerShell module designed to scan remote endpoints for indicators of compromise or survey them for more comprehensive information related to state of those systems.",
+          "tags": [],
+          "group": null,
+          "stars": 293,
+          "last_push": null,
+          "line": 392
+        },
+        {
+          "name": "PSRecon",
+          "url": "https://github.com/gfoss/PSRecon",
+          "description": "PSHunt-like tool for analyzing remote Windows systems that also produces a self-contained HTML report of its findings.",
+          "tags": [],
+          "group": null,
+          "stars": 495,
+          "last_push": "2017-07-29",
+          "line": 393
+        },
+        {
+          "name": "PowerForensics",
+          "url": "https://github.com/Invoke-IR/PowerForensics",
+          "description": "All in one PowerShell-based platform to perform live hard disk forensic analysis.",
+          "tags": [],
+          "group": null,
+          "stars": 1444,
+          "last_push": "2023-11-16",
+          "line": 394
+        },
+        {
+          "name": "Redline",
+          "url": "https://www.fireeye.com/services/freeware/redline.html",
+          "description": "Freeware endpoint auditing and analysis tool that provides host-based investigative capabilities, offered by FireEye, Inc.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 395
+        },
+        {
+          "name": "rastrea2r",
+          "url": "https://github.com/rastrea2r/rastrea2r",
+          "description": "Multi-platform tool for triaging suspected IOCs on many endpoints simultaneously and that integrates with antivirus consoles.",
+          "tags": [],
+          "group": null,
+          "stars": 238,
+          "last_push": "2021-08-01",
+          "line": 396
+        }
+      ]
+    },
+    {
+      "name": "Threat intelligence",
+      "entries": [
+        {
+          "name": "AttackerKB",
+          "url": "https://attackerkb.com/",
+          "description": "Free and public crowdsourced vulnerability assessment platform to help prioritize high-risk patch application and combat vulnerability fatigue.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 402
+        },
+        {
+          "name": "DATA",
+          "url": "https://github.com/hadojae/DATA",
+          "description": "Credential phish analysis and automation tool that can accept suspected phishing URLs directly or trigger on observed network traffic containing such a URL.",
+          "tags": [],
+          "group": null,
+          "stars": 99,
+          "last_push": "2018-08-22",
+          "line": 403
+        },
+        {
+          "name": "Forager",
+          "url": "https://github.com/opensourcesec/Forager",
+          "description": "Multi-threaded threat intelligence gathering built with Python3 featuring simple text-based configuration and data storage for ease of use and data portability.",
+          "tags": [],
+          "group": null,
+          "stars": 178,
+          "last_push": "2018-01-23",
+          "line": 404
+        },
+        {
+          "name": "GRASSMARLIN",
+          "url": "https://github.com/nsacyber/GRASSMARLIN",
+          "description": "Provides IP network situational awareness of industrial control systems (ICS) and Supervisory Control and Data Acquisition (SCADA) by passively mapping, accounting for, and reporting on your ICS/SCADA network topology and endpoints.",
+          "tags": [],
+          "group": null,
+          "stars": 1058,
+          "last_push": null,
+          "line": 405
+        },
+        {
+          "name": "MLSec Combine",
+          "url": "https://github.com/mlsecproject/combine",
+          "description": "Gather and combine multiple threat intelligence feed sources into one customizable, standardized CSV-based format.",
+          "tags": [],
+          "group": null,
+          "stars": 654,
+          "last_push": "2019-03-14",
+          "line": 406
+        },
+        {
+          "name": "Malware Information Sharing Platform and Threat Sharing (MISP)",
+          "url": "https://misp-project.org/",
+          "description": "source software solution for collecting, storing, distributing and sharing cyber security indicators.",
+          "tags": [
+            "Open"
+          ],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 407
+        },
+        {
+          "name": "Open Source Vulnerabilities (OSV)",
+          "url": "https://osv.dev/",
+          "description": "Vulnerability database and triage infrastructure for open source projects aimed at helping both open source maintainers and consumers of open source.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 408
+        },
+        {
+          "name": "Sigma",
+          "url": "https://github.com/Neo23x0/sigma",
+          "description": "Generic signature format for SIEM systems, offering an open signature format that allows you to describe relevant log events in a straightforward manner.",
+          "tags": [],
+          "group": null,
+          "stars": 11081,
+          "last_push": "2026-09-22",
+          "line": 409
+        },
+        {
+          "name": "Threat Bus",
+          "url": "https://github.com/tenzir/threatbus",
+          "description": "Threat intelligence dissemination layer to connect security tools through a distributed publish/subscribe message broker.",
+          "tags": [],
+          "group": null,
+          "stars": 270,
+          "last_push": null,
+          "line": 410
+        },
+        {
+          "name": "ThreatIngestor",
+          "url": "https://github.com/InQuest/ThreatIngestor",
+          "description": "Extendable tool to extract and aggregate IOCs from threat feeds including Twitter, RSS feeds, or other sources.",
+          "tags": [],
+          "group": null,
+          "stars": 931,
+          "last_push": "2026-05-26",
+          "line": 411
+        },
+        {
+          "name": "Unfetter",
+          "url": "https://nsacyber.github.io/unfetter/",
+          "description": "Identifies defensive gaps in security posture by leveraging Mitre's ATT&CK framework.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 412
+        },
+        {
+          "name": "Viper",
+          "url": "https://github.com/viper-framework/viper",
+          "description": "Binary analysis and management framework enabling easy organization of malware and exploit samples.",
+          "tags": [],
+          "group": null,
+          "stars": 1561,
+          "last_push": null,
+          "line": 413
+        },
+        {
+          "name": "YARA",
+          "url": "https://github.com/VirusTotal/yara",
+          "description": "Tool aimed at (but not limited to) helping malware researchers to identify and classify malware samples, described as \"the pattern matching swiss army knife\" for file patterns and signatures.",
+          "tags": [],
+          "group": null,
+          "stars": 9886,
+          "last_push": "2026-09-23",
+          "line": 414
+        },
+        {
+          "name": "HASSH",
+          "url": "https://github.com/salesforce/hassh",
+          "description": "Network fingerprinting standard which can be used to identify specific client and server SSH implementations.",
+          "tags": [],
+          "group": null,
+          "stars": 554,
+          "last_push": null,
+          "line": 418
+        },
+        {
+          "name": "JA3",
+          "url": "https://ja3er.com/",
+          "description": "Extracts SSL/TLS handshake settings for fingerprinting and communicating about a given TLS implementation.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 419
+        },
+        {
+          "name": "ESET's Malware IoCs",
+          "url": "https://github.com/eset/malware-ioc",
+          "description": "Indicators of Compromises (IOCs) derived from ESET's various investigations.",
+          "tags": [],
+          "group": null,
+          "stars": 1984,
+          "last_push": "2026-09-17",
+          "line": 423
+        },
+        {
+          "name": "FireEye's Red Team Tool Countermeasures",
+          "url": "https://github.com/fireeye/red_team_tool_countermeasures",
+          "description": "Collection of Snort and YARA rules to detect attacks carried out with FireEye's own Red Team tools, first released after FireEye disclosed a breach in December 2020.",
+          "tags": [],
+          "group": null,
+          "stars": 2665,
+          "last_push": null,
+          "line": 424
+        },
+        {
+          "name": "FireEye's Sunburst Countermeasures",
+          "url": "https://github.com/fireeye/sunburst_countermeasures",
+          "description": "Collection of IoC in various languages for detecting backdoored SolarWinds Orion NMS activities and related vulnerabilities.",
+          "tags": [],
+          "group": null,
+          "stars": 562,
+          "last_push": null,
+          "line": 425
+        },
+        {
+          "name": "YARA Rules",
+          "url": "https://github.com/Yara-Rules/rules",
+          "description": "Project covering the need for IT security researchers to have a single repository where different Yara signatures are compiled, classified and kept as up to date as possible.",
+          "tags": [],
+          "group": null,
+          "stars": 4898,
+          "last_push": "2024-04-17",
+          "line": 426
+        }
+      ]
+    },
+    {
+      "name": "Tor Onion service defenses",
+      "entries": [
+        {
+          "name": "OnionBalance",
+          "url": "https://onionbalance.readthedocs.io/",
+          "description": "Provides load-balancing while also making Onion services more resilient and reliable by eliminating single points-of-failure.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 432
+        },
+        {
+          "name": "Vanguards",
+          "url": "https://github.com/mikeperry-tor/vanguards",
+          "description": "Version 3 Onion service guard discovery attack mitigation script (intended for eventual inclusion in Tor core).",
+          "tags": [],
+          "group": null,
+          "stars": 247,
+          "last_push": "2024-07-06",
+          "line": 433
+        }
+      ]
+    },
+    {
+      "name": "Transport-layer defenses",
+      "entries": [
+        {
+          "name": "Certbot",
+          "url": "https://certbot.eff.org/",
+          "description": "Free tool to automate the issuance and renewal of TLS certificates from the LetsEncrypt Root CA with plugins that configure various Web and e-mail server software.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 437
+        },
+        {
+          "name": "MITMEngine",
+          "url": "https://github.com/cloudflare/mitmengine",
+          "description": "Golang library for server-side detection of TLS interception events.",
+          "tags": [],
+          "group": null,
+          "stars": 812,
+          "last_push": null,
+          "line": 438
+        },
+        {
+          "name": "Tor",
+          "url": "https://torproject.org/",
+          "description": "Censorship circumvention and anonymizing overlay network providing distributed, cryptographically verified name services (`.onion` domains) to enhance publisher privacy and service availability.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 439
+        },
+        {
+          "name": "Firezone",
+          "url": "https://www.firezone.dev/",
+          "description": "Self-hosted VPN server built on WireGuard that supports MFA and SSO.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 443
+        },
+        {
+          "name": "Headscale",
+          "url": "https://github.com/juanfont/headscale",
+          "description": "source, self-hosted implementation of the Tailscale control server.",
+          "tags": [
+            "Open"
+          ],
+          "group": null,
+          "stars": 44054,
+          "last_push": "2026-09-23",
+          "line": 444
+        },
+        {
+          "name": "IPsec VPN Server Auto Setup Scripts",
+          "url": "https://github.com/hwdsl2/setup-ipsec-vpn",
+          "description": "Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2.",
+          "tags": [],
+          "group": null,
+          "stars": 28551,
+          "last_push": "2026-09-21",
+          "line": 445
+        },
+        {
+          "name": "Innernet",
+          "url": "https://github.com/tonarino/innernet",
+          "description": "Free Software private network system that uses WireGuard under the hood, made to be self-hosted.",
+          "tags": [],
+          "group": null,
+          "stars": 5553,
+          "last_push": "2026-07-28",
+          "line": 446
+        },
+        {
+          "name": "Nebula",
+          "url": "https://github.com/slackhq/nebula",
+          "description": "Completely open source and self-hosted, scalable overlay networking tool with a focus on performance, simplicity, and security, inspired by tinc.",
+          "tags": [],
+          "group": null,
+          "stars": 18374,
+          "last_push": "2026-09-22",
+          "line": 447
+        },
+        {
+          "name": "OpenVPN",
+          "url": "https://openvpn.net/",
+          "description": "Longstanding Free Software traditional SSL/TLS-based virtual private network.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 448
+        },
+        {
+          "name": "OpenZITI",
+          "url": "https://openziti.github.io/",
+          "description": "source initiative focused on bringing Zero Trust to any application via an overlay network, tunelling applications, and numerous SDKs.",
+          "tags": [
+            "Open"
+          ],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 449
+        },
+        {
+          "name": "Tailscale",
+          "url": "https://tailscale.com/",
+          "description": "Managed freemium mesh VPN service built on top of WireGuard.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 450
+        },
+        {
+          "name": "WireGuard",
+          "url": "https://www.wireguard.com/",
+          "description": "Extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 451
+        },
+        {
+          "name": "tinc",
+          "url": "https://tinc-vpn.org/",
+          "description": "Free Software mesh VPN implemented entirely in userspace that supports expandable network space, bridged ethernet segments, and more.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 452
+        }
+      ]
+    },
+    {
+      "name": "macOS-based defenses",
+      "entries": [
+        {
+          "name": "BlockBlock",
+          "url": "https://objective-see.com/products/blockblock.html",
+          "description": "Monitors common persistence locations and alerts whenever a persistent component is added, which helps to detect and prevent malware installation.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 458
+        },
+        {
+          "name": "LuLu",
+          "url": "https://objective-see.com/products/lulu.html",
+          "description": "Free macOS firewall.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 459
+        },
+        {
+          "name": "Santa",
+          "url": "https://github.com/google/santa",
+          "description": "Keep track of binaries that are naughty or nice in an allow/deny-listing system for macOS.",
+          "tags": [],
+          "group": null,
+          "stars": 4506,
+          "last_push": null,
+          "line": 460
+        },
+        {
+          "name": "Stronghold",
+          "url": "https://github.com/alichtman/stronghold",
+          "description": "Easily configure macOS security settings from the terminal.",
+          "tags": [],
+          "group": null,
+          "stars": 1191,
+          "last_push": "2025-02-24",
+          "line": 461
+        },
+        {
+          "name": "macOS Fortress",
+          "url": "https://github.com/essandess/macOS-Fortress",
+          "description": "Automated configuration of kernel-level, OS-level, and client-level security features including privatizing proxying and anti-virus scanning for macOS.",
+          "tags": [],
+          "group": null,
+          "stars": 450,
+          "last_push": "2021-11-24",
+          "line": 462
+        }
+      ]
+    },
+    {
+      "name": "Windows-based defenses",
+      "entries": [
+        {
+          "name": "CobaltStrikeScan",
+          "url": "https://github.com/Apr4h/CobaltStrikeScan",
+          "description": "Scan files or process memory for Cobalt Strike beacons and parse their configuration.",
+          "tags": [],
+          "group": null,
+          "stars": 917,
+          "last_push": "2021-08-19",
+          "line": 468
+        },
+        {
+          "name": "HardenTools",
+          "url": "https://github.com/securitywithoutborders/hardentools",
+          "description": "Utility that disables a number of risky Windows features.",
+          "tags": [],
+          "group": null,
+          "stars": 3110,
+          "last_push": "2025-08-10",
+          "line": 469
+        },
+        {
+          "name": "NotRuler",
+          "url": "https://github.com/sensepost/notruler",
+          "description": "Detect both client-side rules and VBScript enabled forms used by the Ruler attack tool when attempting to compromise a Microsoft Exchange server.",
+          "tags": [],
+          "group": null,
+          "stars": 96,
+          "last_push": "2017-10-11",
+          "line": 470
+        },
+        {
+          "name": "Sandboxie",
+          "url": "https://www.sandboxie.com/",
+          "description": "Free and open source general purpose Windows application sandboxing utility.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 471
+        },
+        {
+          "name": "Sigcheck",
+          "url": "https://docs.microsoft.com/en-us/sysinternals/downloads/sigcheck",
+          "description": "Audit a Windows host's root certificate store against Microsoft's Certificate Trust List (CTL).",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 472
+        },
+        {
+          "name": "Sticky Keys Slayer",
+          "url": "https://github.com/linuz/Sticky-Keys-Slayer",
+          "description": "Establishes a Windows RDP session from a list of hostnames and scans for accessibility tools backdoors, alerting if one is discovered.",
+          "tags": [],
+          "group": null,
+          "stars": 348,
+          "last_push": "2018-03-16",
+          "line": 473
+        },
+        {
+          "name": "Windows Secure Host Baseline",
+          "url": "https://github.com/nsacyber/Windows-Secure-Host-Baseline",
+          "description": "Group Policy objects, compliance checks, and configuration tools that provide an automated and flexible approach for securely deploying and maintaining the latest releases of Windows 10.",
+          "tags": [],
+          "group": null,
+          "stars": 1587,
+          "last_push": null,
+          "line": 474
+        },
+        {
+          "name": "WMI Monitor",
+          "url": "https://github.com/realparisi/WMI_Monitor",
+          "description": "Log newly created WMI consumers and processes to the Windows Application event log.",
+          "tags": [],
+          "group": null,
+          "stars": 123,
+          "last_push": "2018-02-28",
+          "line": 475
+        },
+        {
+          "name": "Active Directory Control Paths",
+          "url": "https://github.com/ANSSI-FR/AD-control-paths",
+          "description": "Visualize and graph Active Directory permission configs (\"control relations\") to audit questions such as \"Who can read the CEO's email?\" and similar.",
+          "tags": [],
+          "group": null,
+          "stars": 675,
+          "last_push": null,
+          "line": 479
+        },
+        {
+          "name": "PingCastle",
+          "url": "https://www.pingcastle.com/",
+          "description": "Active Directory vulnerability detection and reporting tool.",
+          "tags": [],
+          "group": null,
+          "stars": null,
+          "last_push": null,
+          "line": 480
+        },
+        {
+          "name": "PlumHound",
+          "url": "https://github.com/PlumHound/PlumHound",
+          "description": "More effectively use BloodHoundAD in continual security life-cycles by utilizing its pathfinding engine to identify Active Directory security vulnerabilities.",
+          "tags": [],
+          "group": null,
+          "stars": 1318,
+          "last_push": "2025-11-15",
+          "line": 481
+        }
+      ]
+    }
+  ]
+}

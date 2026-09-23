@@ -1,0 +1,49 @@
+# Configuration for this awesome list. Everything the engine needs
+# beyond README.md lives here.
+
+name = "Awesome Cybersecurity Blueteam"
+repo_slug = "awesome-cybersecurity-blueteam"
+readme = "README.md"
+badge = "default"
+
+sections = [
+    "Automation and Convention",
+    "Cloud platform security",
+    "Communications security (COMSEC)",
+    "DevSecOps",
+    "Honeypots",
+    "Host-based tools",
+    "Identity and AuthN/AuthZ",
+    "Incident Response tools",
+    "Network perimeter defenses",
+    "Operating System distributions",
+    "Phishing awareness and reporting",
+    "Preparedness training and wargaming",
+    "Security configurations",
+    "Security monitoring",
+    "Threat intelligence",
+    "Tor Onion service defenses",
+    "Transport-layer defenses",
+    "macOS-based defenses",
+    "Windows-based defenses",
+]
+
+[site]
+# The template has no site generator yet, so this stays off.
+enabled = false
+
+[links]
+archive = "off"
+exclude = []
+allowlist = [
+    # Neither host serves a TLS certificate, so these entries stay on http.
+    "http://gauntlt.org/",
+    "http://netsniff-ng.org/",
+]
+
+[github]
+stats = true
+max_age_days = 14
+
+[tags]
+# This list carries no tag vocabulary, so every entry opts out of tags.
